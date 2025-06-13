@@ -1,0 +1,29 @@
+📋 Books Available Table (userAllTables)
+Book Name	Author	Year	Stocks
+Java Basics	James Gosling	2015	3
+Python Intro	Guido van Rossum	2018	5
+C++ Advanced	Bjarne Stroustrup	2012	2
+
+📋 Issued Books Table (issuedTable)
+Book Name
+Java Basics
+C++ Advanced
+
+👤 Username Label
+pgsql
+Copy
+Edit
+Logged in as: johndoe
+🔘 Buttons
+Issue: Enabled only when a book is selected from the available books table.
+
+Return: Enabled only when a book is selected from the issued books table.
+
+Let me know if you want sample data for a different user or a specific action's result (e.g., after issuing or returning a book).
+
+
+
+
+
+
+
